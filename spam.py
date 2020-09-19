@@ -13,9 +13,9 @@ def baner():
     print ('''
 \tALL SPAM OTP
 \t------------
-\nCreator:Fahmiapz 
-Youtube: Knifer12
-Github : github.com/BladeKnife
+\nCreator:ardi.an 
+Instagram : Ardics8
+Github : github.com/dicyn
 ==========================================''')
 def kata(s):
     for c in s + "\n":
